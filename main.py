@@ -11,7 +11,7 @@ from datetime import datetime
 app = Flask(__name__)
 
 # Telegram Bot Information
-BOT_TOKEN = '7521421140:AAH5ZrfjmoYEQHGEWn5Tg26E-JK11M1JeTI'
+BOT_TOKEN = '7272316792:AAFboJ3hJfLjU3oLDKMgfmsK62HpBKac34I'
 bot = Bot(token=BOT_TOKEN)
 
 # API Information
