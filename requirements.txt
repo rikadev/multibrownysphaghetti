@@ -1,0 +1,8 @@
+telebot==0.0.4
+datetime
+requests==2.26.0
+python-telegram-bot==20.3
+Flask==2.0.1
+backoff==2.1.2
+asyncio==3.4.3
+werkzeug==2.0.3
